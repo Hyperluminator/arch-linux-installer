@@ -1,0 +1,25 @@
+# Fill these variables to perform an auto install
+
+# All possible layouts can be seen by executing `localectl list-keymaps`. An example is `us`.
+keyboard_layout=""
+
+# All possible locales can be seen in `/etc/locale.gen`. An example is `en_US.UTF-8 UTF-8`.
+locale=""
+
+# All possible time zones can be seen by executing `timedatectl list-timezones`. An example is `Antarctica/Troll`.
+time_zone=""
+
+username=""
+password=""
+root_password=""
+hostname=""
+
+# The block device that GRUB is going to be installed, e.g. `/dev/sda`.
+grub_drive=""
+
+# The drive partition that Arch Linux will be installed, e.g. `/dev/sda1`.
+root_partition=""
+
+# The size of the swap file (`/swapfile`) in GiB.
+swapfile_size=8
+
