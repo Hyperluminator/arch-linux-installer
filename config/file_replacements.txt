@@ -1,0 +1,3 @@
+# /origin/directory > /target/directory
+# Example: .bashrc > /etc/skel/.bashrc
+

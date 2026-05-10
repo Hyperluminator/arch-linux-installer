@@ -1,0 +1,12 @@
+# Fill these variables to perform an auto install
+keyboard_layout=""
+locale=""
+time_zone=""
+username=""
+password=""
+root_password=""
+hostname=""
+grub_drive=""
+root_partition=""
+swapfile_size=8
+
